@@ -41,11 +41,6 @@ cd TO-DO-App
  
 Open your browser and go to (http://localhost:5173/) to view the application.
 
-## Screenshots
-![Screenshot-1](https://github.com/harshsharmaa25/TO-DO-App/blob/main/Screenshot%201.png)
-![Screenshot-2](https://github.com/harshsharmaa25/TO-DO-App/blob/main/Screenshot%202.png)
-![Screenshot-3](https://github.com/harshsharmaa25/TO-DO-App/blob/main/Screenshot%203.png)
-
 ## 🌈 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
